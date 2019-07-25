@@ -1,0 +1,31 @@
+
+"2010":
+  census-surnames-2010.zip:
+    url: https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+    landing_page: https://www.census.gov/topics/population/genealogy/data/2010_surnames.html
+
+  census-surnames-2010-technical-doc.pdf:
+    url: https://www2.census.gov/topics/genealogy/2010surnames/surnames.pdf
+    landing_page: https://www.census.gov/topics/population/genealogy/data/2010_surnames.html
+
+
+"2000":
+  census-surnames-2000.zip:
+    url: http://www2.census.gov/topics/genealogy/2000surnames/names.zip
+    landing_page: https://www.census.gov/topics/population/genealogy/data/2000_surnames.html
+
+  census-surnames-2000-technical-doc.pdf:
+    url: http://www2.census.gov/topics/genealogy/2000surnames/surnames.pdf
+    landing_page: https://www.census.gov/topics/population/genealogy/data/2000_surnames.html
+
+
+"1990":
+  census-surnames-1990-technical-doc.txt:
+    url: https://www2.census.gov/topics/genealogy/1990surnames/nam_meth.txt
+    landing_page: https://www.census.gov/topics/population/genealogy/data/1990_census/1990_census_namefiles.html
+
+  census-surnames-1990.txt:
+    url: http://www2.census.gov/topics/genealogy/1990surnames/dist.all.last
+    landing_page: https://www.census.gov/topics/population/genealogy/data/1990_census/1990_census_namefiles.html
+
+
